@@ -44,7 +44,7 @@
     <!-- ============================================================== -->
     <div class="splash-container">
         <div class="card ">
-            <div class="card-header text-center"><a href="<%=request.getContextPath()%>/webResponsive/dashboard.jsp"><img class="img-fluid" src="assets/images/logo2.png" alt="logo"></a><span class="splash-description">Instituto de Seguridad Social del Estado de Tabasco.</span></div>
+            <div class="card-header text-center"><a href="<%=request.getContextPath()%>/webResponsive/dashboard.jsp"></a><span class="splash-description"></span></div>
             <div class="card-body">
                 <form>
                     <div class="form-group ">
