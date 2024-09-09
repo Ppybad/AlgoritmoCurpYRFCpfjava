@@ -1,5 +1,5 @@
 
-# Algoritmo para Generar CURP y RFC en Java
+# Algoritmo para Generar CURP y RFC
 
 Este proyecto es una implementación en Java para generar el **CURP** (Clave Única de Registro de Población) y el **RFC** (Registro Federal de Contribuyentes) a partir de los datos personales ingresados por el usuario. El CURP es utilizado en México para identificar a cada ciudadano de manera única, mientras que el RFC se utiliza para fines fiscales.
 
